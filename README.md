@@ -136,4 +136,8 @@ Im Rahmen dieses Projekts wurden folgende Kernkompetenzen erfolgreich erarbeitet
 - Einrichten und Verwalten von Repositories auf GitHub.
 - Arbeiten mit Feature-Branches zur Vermeidung von Konflikten im Hauptcode.
 - Sicherer Umgang mit Merges, Commits und Remote-Synchronisation (`pull`/`push`).
+<<<<<<< HEAD
 - Sauberer Projektabschluss durch strukturiertes Löschen gemergter Branches.
+=======
+- Sauberer Projektabschluss durch strukturiertes Löschen gemergter Branches.
+>>>>>>> e809893d483db594015f4c244745fc48661618ee
